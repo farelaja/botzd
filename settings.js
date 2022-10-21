@@ -1,23 +1,23 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.premium = ['6289510497533']
+global.premium = ['6283848574563','6281364097515']
 global.packname = 'CEMAS KAU DEK BEK BEK BEK'
 global.author = '© IRFANFF9'
 global.sessionName = 'session'
-global.namabotnya = 'IRFANBOT - MD'
-global.namaownernya = 'IRFANFF9'
+global.namabotnya = 'ʏᴛᴛᴀ ʙᴏᴛᴢ'
+global.namaownernya = '?'
 global.dapkey = 'Kirbotz123'
 global.lolkey = 'FαυȥყRêålz`𐁘'
 global.kirkey = 'KirBotz'
 global.wame = 'https://wa.me/6289510497533'
 global.gckirbotz = 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8'
-global.ownerNumber = ["6289510497533@s.whatsapp.net"]
+global.ownerNumber = ["6283848574563@s.whatsapp.net"]
 global.email = 'irfanbotwa@gmail.com'
-global.yt = 'https://youtube.com/channel/UCB2FsP3zAMlcfRz7iVs2D6A'
-global.webkir = 'irfanff9-ipan.vercel.app'
-global.githubkir = 'https://github.com/irfanff9'
-global.region = 'IPAN SUHU'
+global.yt = 'GDA'
+global.webkir = 'GDA'
+global.githubkir = 'GDA'
+global.region = 'PRESIDEN SUHU'
 global.prefa = ['','!','.','#','-','•']
 global.mess = {
     success: 'Success 💯',
